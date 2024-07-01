@@ -11,7 +11,7 @@
 
 - 🌱 I'm currently learning **NodeJS**
 
-- 👨‍💻 All of my projects are available at [https://reyy.vercel.app](https://reyy.vercel.app)
+- 👨‍💻 All of my projects are available at [https://reyyset.vercel.app](https://reyyset.vercel.app)
 
 - 📝 I regularly write articles on [https://github/rereyoz](https://github/rereyoz)
 
